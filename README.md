@@ -1,4 +1,4 @@
-# 📄 Resume Details Fetcher
+# 📄 Resume Parser
 
 A simple *Streamlit app* to extract basic details (Name, Email, Phone, Education, Experience) from a *PDF resume*.
 
